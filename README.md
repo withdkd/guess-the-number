@@ -1,2 +1,2 @@
-# test1
- 
+#Guess the number
+Simple task while learning golang. Not first and not last...
